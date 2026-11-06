@@ -14,7 +14,6 @@ Accurately monitoring population metrics relies on minimizing observation biases
 ### Required Packages and Versions Used
 tidyverse
 here
-sf
 zoo
 doParallel
 R2jags
